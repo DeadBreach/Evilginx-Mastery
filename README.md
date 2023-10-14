@@ -1,4 +1,4 @@
-I found this new course for Phishing Attacks with Evilginx3. Thought I would share. It comes with many phishlets too.
+I found this new course for Phishing Attacks with Evilginx3. Thought I would share.
 
 [Evilginx Phishing Pro Course](https://www.simplerhacking.com/)
 
